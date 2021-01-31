@@ -1,60 +1,9 @@
 /* style.css */
 
-/* color code: #8e44ad , #c0392b , #2980b9 */
+/* color code: #8e44ad , #c0392b , # */
 
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-
-body {
-    padding: 50px;
-}
-
-.btn {
-    width: 100px;
-    height: 50px;
-    font-size: 15px;
-    font-weight: 600;
-    border: 2px solid;
-    background-color: #fff;
-    border-radius: 10px;
-    /* cursor: pointer; display hand when hover */
-    cursor: pointer;
-}
-
-.btn-violet {
-    border-color: #8e44ad;
-    color: #8e44ad;
-}
-
-.btn-violet:hover {
-    background-color: #8e44ad;
-    color: #fff;
-}
-
-.btn-blue {
-    border-color: #2980b9;
-    color: #2980b9;
-}
-
-.btn-blue:hover {
-    background-color: #2980b9;
-    color: #fff;
-}
-
-.btn-red {
-    border-color: #c0392b;
-    color: #c0392b;
-}
-
-.btn-red:hover {
-    background-color: #c0392b;
-    color: #fff;
-}
-
-/* html,
-body {
-    
-} */
