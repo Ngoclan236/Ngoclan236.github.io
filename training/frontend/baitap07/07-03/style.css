@@ -1,0 +1,14 @@
+/* color code: #8A2BE2 */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rect {
+    height: 100px;
+    width: 700px;
+    background-color: #8A2BE2;
+    margin: 20px 70px 20px 0;
+}

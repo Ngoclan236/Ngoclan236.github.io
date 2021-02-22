@@ -1,0 +1,15 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    background-image: url(./images/adomas-aleno-4vrZpOo7fTc-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    max-height: 500px;
+}
